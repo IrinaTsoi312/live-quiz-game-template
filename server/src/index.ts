@@ -378,9 +378,8 @@ function endGame(game: Game): void {
   });
 }
 
-
 wss.on('connection', (ws: WebSocket) => {
-  console.log('Client connected');
+  console.log('🚀 Connection have been established');
 
   ws.on('message', (messageData: string) => {
     try {
@@ -403,10 +402,10 @@ wss.on('connection', (ws: WebSocket) => {
           handleAnswer(ws, message.data);
           break;
         default:
-          console.log('Unknown message type:', message.type);
+          console.log('❓ Unknown message type:', message.type);
       }
     } catch (error) {
-      console.error('Error processing message:', error);
+      console.error('⛔ Error processing message:', error);
     }
   });
 
@@ -457,8 +456,8 @@ wss.on('connection', (ws: WebSocket) => {
 });
 
   ws.on('error', (error) => {
-    console.error('WebSocket error:', error);
+    console.error('⛔ WebSocket error:', error);
   });
 });
 
-console.log(`WebSocket server running at ws://localhost:${PORT}`);
+console.log(`🏃 WebSocket server running at ws://localhost:${PORT}`);
