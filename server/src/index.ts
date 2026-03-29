@@ -36,6 +36,8 @@ function broadcastToGame(gameId: string, message: WSMessage): void {
   if (hostUser?.ws && hostUser.ws.readyState === hostUser.ws.OPEN) {
     sendToClient(hostUser.ws, message);
   }
+
+  console.log(message.data);
 }
 
 function handleRegister(ws: WebSocket, data: RegData): void {
@@ -366,6 +368,8 @@ function handleQuestionTimeout(game: Game): void {
 
 function endGame(game: Game): void {
   game.status = 'finished';
+
+  console.log('🎮 Game ended!');
 
   const scoreboard = getGameRanking(game);
 
