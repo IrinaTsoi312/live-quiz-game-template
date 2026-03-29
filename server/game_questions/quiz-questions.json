@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "text": "Finish the quote (Albert Einstein): \"Imagination is more important than...\"",
+      "options": ["knowledge", "power", "experience", "logic"],
+      "correctIndex": 0,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"Success is stumbling from failure to failure with no loss of...\"",
+      "options": ["hope", "focus", "enthusiasm", "strength"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Marie Curie): \"Nothing in life is to be feared, it is only to be...\"",
+      "options": ["studied", "understood", "explored", "learned"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Eleanor Roosevelt): \"No one can make you feel inferior without your...\"",
+      "options": ["fear", "consent", "permission", "approval"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"In the middle of difficulty lies...\"",
+      "options": ["hope", "success", "opportunity", "strength"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and...\"",
+      "options": ["rest", "listen", "wait", "learn"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"Life is like riding a bicycle. To keep your balance, you must...\"",
+      "options": ["keep moving", "stay focused", "never stop", "move forward"],
+      "correctIndex": 0,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"I am ready to meet my Maker. Another question is whether my Maker is prepared for the great ordeal of meeting...\"",
+      "options": ["me", "him", "us", "them"],
+      "correctIndex": 0,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Marie Curie): \"Be less curious about people and more curious about...\"",
+      "options": ["science", "nature", "ideas", "truth"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"A politician needs the ability to foretell what is going to happen tomorrow... and to explain why it didn't...\"",
+      "options": ["work", "change", "happen", "matter"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"The important thing is not to stop...\"",
+      "options": ["thinking", "learning", "questioning", "exploring"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Margaret Thatcher): \"Watch your thoughts, for they will become...\"",
+      "options": ["actions", "words", "habits", "reality"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"Tact is the ability to tell someone to go to hell in such a way that they look forward to the...\"",
+      "options": ["idea", "journey", "trip", "moment"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"Strive not to be a success, but rather to be of...\"",
+      "options": ["importance", "value", "wisdom", "purpose"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Winston Churchill): \"Democracy is the worst form of government except all the others that have been...\"",
+      "options": ["tested", "tried", "used", "created"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Mother Teresa): \"If you judge people, you have no time to...\"",
+      "options": ["understand them", "help them", "love them", "forgive them"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"Two things are infinite: the universe and human stupidity; and I'm not sure about the...\"",
+      "options": ["first", "second", "universe", "truth"],
+      "correctIndex": 2,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Indira Gandhi): \"The power to question is the basis of all human...\"",
+      "options": ["progress", "knowledge", "thinking", "freedom"],
+      "correctIndex": 0,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Albert Einstein): \"Logic will get you from A to B. Imagination will take you...\"",
+      "options": ["everywhere", "further", "beyond", "anywhere"],
+      "correctIndex": 0,
+      "timeLimitSec": 30
+    },
+    {
+      "text": "Finish the quote (Marie Curie): \"I was taught that the way of progress was neither swift nor...\"",
+      "options": ["simple", "easy", "clear", "direct"],
+      "correctIndex": 1,
+      "timeLimitSec": 30
+    }
+  ]
+}
